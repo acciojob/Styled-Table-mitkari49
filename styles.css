@@ -1,1 +1,14 @@
 /* your code */
+tr:nth-child(even){
+	background-color:gray;
+}
+thead{
+	color:rgb(255, 255, 255);
+	background-color:rgb(120,100,255);
+}
+th, td {
+  padding: 15px;
+}
+table {
+  border-spacing: 30px;
+}
